@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 logging.basicConfig(level=logging.INFO)
 
 # Cloud ke environment variable se token uthayega
-BOT_TOKEN = os.getenv("8965802203:AAE3Ttoz7Ie7ed-9mTKSGOHlA6hgGEAOK1w")
+BOT_TOKEN = os.getenv("8965802203:AAF_0i0cQoK34HXDqaJtQ_F2zlkeLyng1Hg")
 
 ADMIN_IDS = [8940352048]
 
